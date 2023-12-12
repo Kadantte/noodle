@@ -1,9 +1,0 @@
-{
-  "extends": "@noodle/tsconfig/base.json",
-  "compilerOptions": {
-    "noEmit": true,
-    "types": ["vitest/globals"]
-  },
-  "exclude": ["./coverage/**/*"],
-  "include": ["**/*.ts"]
-}
